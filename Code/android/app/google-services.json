@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892737204106",
+    "firebase_url": "https://shoping-23401-default-rtdb.firebaseio.com",
+    "project_id": "shoping-23401",
+    "storage_bucket": "shoping-23401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892737204106:android:3c566a44d852081468e273",
+        "android_client_info": {
+          "package_name": "com.abdallaomer.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892737204106-pqbk2mcm844s2qooid0dbc3bfgd1ffc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8VS5wByYzvk78xQrhRqVLb36fk9kCZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892737204106-pqbk2mcm844s2qooid0dbc3bfgd1ffc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
